@@ -1,6 +1,6 @@
 # PredictFlow
 
-PredictFlow is an end-to-end automated machine learning web application that allows users to upload any CSV or Excel dataset and instantly receive cleaned data, exploratory data analysis, and machine learning model predictions — all without writing a single line of code.
+PredictFlow is an end-to-end automated machine learning web application that allows users to upload any CSV or Excel dataset and instantly receive cleaned data, exploratory data analysis, and machine learning model predictions all without writing a single line of code.
 
 ## Features
 
